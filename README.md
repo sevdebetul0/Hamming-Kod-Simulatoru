@@ -38,11 +38,11 @@ Veri giriş, hata oluşturma ve düzeltme işlemlerinin kutucuklarla gösterildi
 ---
 
 ## 🧑‍💻 Canlı Demo
-
+[Canlı Demo](https://sevdebetul0.github.io/Hamming-Kod-Simulatoru/)
 ---
 
 ##  📽️Uygulama Video Linki
-[Video linki](https://youtu.be/-mfxW6iItdY)
+[Video Linki](https://youtu.be/-mfxW6iItdY)
 
 
 
