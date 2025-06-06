@@ -42,7 +42,7 @@ Veri giriş, hata oluşturma ve düzeltme işlemlerinin kutucuklarla gösterildi
 ---
 
 ##  📽️Uygulama Video Linki
-
+[Video linki](https://youtu.be/-mfxW6iItdY)
 
 
 
