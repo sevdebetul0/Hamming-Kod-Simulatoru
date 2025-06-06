@@ -3,6 +3,9 @@
 Bu projede, Hamming(12,8) kodlaması kullanılarak 8 bitlik bir verinin **tek bitlik hatasını düzeltme (SEC)** ve **çift bitlik hatayı tespit etme (DED)** süreci simüle edilmektedir. Proje tamamen **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir.
 
 ---
+## 🧑‍💻 Canlı Demo
+🔗 [Canlı Demo](https://sevdebetul0.github.io/Hamming-Kod-Simulatoru/)
+
 
 ## 🎯 Amaç
 
@@ -37,12 +40,8 @@ Veri giriş, hata oluşturma ve düzeltme işlemlerinin kutucuklarla gösterildi
 
 ---
 
-## 🧑‍💻 Canlı Demo
-[Canlı Demo](https://sevdebetul0.github.io/Hamming-Kod-Simulatoru/)
----
-
 ##  📽️Uygulama Video Linki
-[Video Linki](https://youtu.be/-mfxW6iItdY)
+🔗 [Video Linki](https://youtu.be/-mfxW6iItdY)
 
 
 
