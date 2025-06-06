@@ -11,13 +11,13 @@ function calculate() {
   const d = input.split('').map(Number);
   originalBits = [];
 
-  // Parity bitleri hesapla (Hamming(12,8) için pozisyonlar: 1,2,4,8)
+  // Parity bitleri(Hamming(12,8) için pozisyonlar: 1,2,4,8)
   let p1 = d[0] ^ d[1] ^ d[3] ^ d[4] ^ d[6];
   let p2 = d[0] ^ d[2] ^ d[3] ^ d[5] ^ d[6];
   let p4 = d[1] ^ d[2] ^ d[3] ^ d[7];
   let p8 = d[4] ^ d[5] ^ d[6] ^ d[7];
 
-  // Bit dizisi oluştur (1 tabanlı pozisyonlara parity'ler ekleniyor)
+  // Bit dizisi oluştur 
   originalBits = [
     p1,     // 1
     p2,     // 2
