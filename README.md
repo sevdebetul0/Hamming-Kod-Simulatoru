@@ -15,6 +15,7 @@ Bu projede, Hamming(12,8) kodlaması kullanılarak 8 bitlik bir verinin **tek bi
 ## 🖥️ Ekran Görüntüsü
 
 Veri giriş, hata oluşturma ve düzeltme işlemlerinin kutucuklarla gösterildiği bir görsel arayüz mevcuttur:
+
 **Eksik veya Hatalı Giriş**
 ![Ekran görüntüsü 2025-06-06 223849](https://github.com/user-attachments/assets/e1eb94b7-0d83-468b-8c10-c24d73c2ca38)
 ---
