@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Hamming Kod Simülatörü</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hamming SEC-DED Kod Simülatörü</h1>
+
+  <div class="container">
+    <label>Veri Girişi (8 bit):</label>
+    <input type="text" id="dataInput" maxlength="8" placeholder="Örn: 10110011" />
+    <button onclick="calculate()">Hamming Kodu Hesapla</button>
+
+    <div id="hammingOutput" class="output"></div>
+
+    <label>Yapay Hata (bit pozisyonu 1–12):</label>
+    <input type="number" id="errorBit" min="1" max="12" />
+    <button onclick="addError()">Hata Oluştur</button>
+
+    <div id="corruptedOutput" class="output"></div>
+
+    <button onclick="correct()">Hata Düzelt</button>
+    <div id="correctedOutput" class="output"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
